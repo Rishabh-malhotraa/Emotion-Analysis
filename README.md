@@ -10,6 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
   <a href="https://apads-app.netlify.app/">
     <img src="./public/images/apads-logo.svg" alt="Logo" width="256" height="256">
