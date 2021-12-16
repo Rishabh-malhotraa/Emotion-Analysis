@@ -1,0 +1,42 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery__container {
+  margin-top: 2rem;
+  width: 100%;
+  min-height: 500px;
+}
+
+.gallery__container h2 {
+  text-align: center;
+}
+
+.gallery__image-wrapper {
+  position: relative;
+  margin: 1rem;
+  width: 150px;
+  height: 120px;
+}
+
+.gallery__photo {
+  width: 100%;
+  opacity: 0.5;
+  cursor: pointer;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+
+.gallery__photo-delete {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  color: rgba(255, 109, 109, 0.762);
+  cursor: pointer;
+}
+
+.gallery__photo--selected {
+  opacity: 1;
+}

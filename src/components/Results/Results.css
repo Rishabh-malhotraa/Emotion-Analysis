@@ -1,0 +1,20 @@
+.results p {
+  font-size: 1.25rem;
+}
+
+.results__wrapper {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.results__emoji {
+  color: #3d9970;
+}
+
+.results__text {
+  width: 300px;
+}
+
+.results__emoji svg {
+  margin-right: 0.75rem;
+}
