@@ -28,6 +28,17 @@
         "data",
         "doc"
       ]
+    },
+    {
+      "login": "Bhowalsoham",
+      "name": "Bhowalsoham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53665098?v=4",
+      "profile": "https://github.com/bhowalsoham",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
