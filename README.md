@@ -1,7 +1,4 @@
 <!-- PROJECT SHIELDS -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -13,9 +10,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
   <a href="https://apads-app.netlify.app/">
-    <img src="client/public/logo192.png" alt="Logo" width="256" height="256">
+    <img src="./public/images/apads-logo.svg" alt="Logo" width="256" height="256">
   </a>
 
   <strong>
@@ -28,7 +26,6 @@
     <br />
     <a href="https://github.com/Rishabh-malhotraa/Capstone-Project"><strong>Explore the project »</strong></a>
     <br />
-    
     <br />
     <a href="https://apads-app.netlify.app/">View Demo</a>
     ·
@@ -72,15 +69,18 @@
 
 ---
 
+### APADS App
+
+
+| Real Time Emotion Analysis | Photo - Emotion Analysis |
+| :------------------------: | :----------------------: |
+|   ![product-screenshoti]   | ![product-screenshotii]  |
+
 ## Video Demonstration
 
-Video Demonstration : [Video Link](https://drive.google.com/drive/u/0/folders/1uXQ53ieJK1gcbtpfYYxVthMXN5X9SpbM)
+Video Demonstration : [Video Link]()
 
 ---
-
-### Demonstration
-
-![Capstone-Project-hld]
 
 <br/>
 
@@ -124,10 +124,6 @@ Install [NodeJS LTS](https://nodejs.org/en/)
    ```sh
    npm run dev
    ```
-
-### Setting up DATABASE
-
-To setup the database with mockdata, follow this [guide](/Setting%20up%20Database.md)
 
 ## Roadmap
 
@@ -199,13 +195,12 @@ Project Link: [https://apads-app.netlify.app/](https://apads-app.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rishabh-malhotra-4536a418b
 [product-demo]: images/Capstone-Project-demonstation.gif
-[product-screenshoti]: assets/user-page.png
-[product-screenshotii]: assets/mentors.png
+[product-screenshoti]: public/images/video.png
+[product-screenshotii]: public/images/photo.png
 [product-screenshotiii]: assets/topics.png
 [product-screenshotiv]: assets/scheduler.png
 [product-screenshotv]: assets/confirm-booking.png
 [Capstone-Project-hld]: assets/Capstone-Project-hld.png
-
 
 ## Contributors ✨
 
@@ -217,6 +212,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://rishabh-malhotraa.github.io/Rishabh-Portfolio-main/"><img src="https://avatars.githubusercontent.com/u/54576074?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rishabh Malhotra</b></sub></a><br /><a href="#infra-Rishabh-malhotraa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#data-Rishabh-malhotraa" title="Data">🔣</a> <a href="#design-Rishabh-malhotraa" title="Design">🎨</a> <a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=Rishabh-malhotraa" title="Code">💻</a> <a href="#video-Rishabh-malhotraa" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/AbishMahajan"><img src="https://avatars.githubusercontent.com/u/89102936?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AbishMahajan</b></sub></a><br /><a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=AbishMahajan" title="Code">💻</a> <a href="#data-AbishMahajan" title="Data">🔣</a> <a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=AbishMahajan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bhowalsoham"><img src="https://avatars.githubusercontent.com/u/53665098?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhowalsoham</b></sub></a><br /><a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=Bhowalsoham" title="Code">💻</a> <a href="#content-Bhowalsoham" title="Content">🖋</a> <a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=Bhowalsoham" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/tanuj5221"><img src="https://avatars.githubusercontent.com/u/51115702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tanuj5221</b></sub></a><br /><a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=tanuj5221" title="Code">💻</a> <a href="#data-tanuj5221" title="Data">🔣</a> <a href="#ideas-tanuj5221" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Rishabh-malhotraa/Capstone-Project/commits?author=tanuj5221" title="Documentation">📖</a></td>
   </tr>
 </table>
 

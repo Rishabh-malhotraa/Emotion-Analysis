@@ -17,6 +17,40 @@
         "code",
         "video"
       ]
+    },
+    {
+      "login": "AbishMahajan",
+      "name": "AbishMahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89102936?v=4",
+      "profile": "https://github.com/AbishMahajan",
+      "contributions": [
+        "code",
+        "data",
+        "doc"
+      ]
+    },
+    {
+      "login": "Bhowalsoham",
+      "name": "Bhowalsoham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53665098?v=4",
+      "profile": "https://github.com/bhowalsoham",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "tanuj5221",
+      "name": "tanuj5221",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51115702?v=4",
+      "profile": "https://github.com/tanuj5221",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
