@@ -1,7 +1,4 @@
 <!-- PROJECT SHIELDS -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -13,9 +10,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
   <a href="https://apads-app.netlify.app/">
-    <img src="client/public/logo192.png" alt="Logo" width="256" height="256">
+    <img src="./public/images/apads-logo.svg" alt="Logo" width="256" height="256">
   </a>
 
   <strong>
@@ -28,7 +26,6 @@
     <br />
     <a href="https://github.com/Rishabh-malhotraa/Capstone-Project"><strong>Explore the project »</strong></a>
     <br />
-    
     <br />
     <a href="https://apads-app.netlify.app/">View Demo</a>
     ·
@@ -72,15 +69,18 @@
 
 ---
 
+### APADS App
+
+
+| Real Time Emotion Analysis | Photo - Emotion Analysis |
+| :------------------------: | :----------------------: |
+|   ![product-screenshoti]   | ![product-screenshotii]  |
+
 ## Video Demonstration
 
 Video Demonstration : [Video Link](https://drive.google.com/drive/u/0/folders/1uXQ53ieJK1gcbtpfYYxVthMXN5X9SpbM)
 
 ---
-
-### Demonstration
-
-![Capstone-Project-hld]
 
 <br/>
 
@@ -124,10 +124,6 @@ Install [NodeJS LTS](https://nodejs.org/en/)
    ```sh
    npm run dev
    ```
-
-### Setting up DATABASE
-
-To setup the database with mockdata, follow this [guide](/Setting%20up%20Database.md)
 
 ## Roadmap
 
@@ -199,13 +195,12 @@ Project Link: [https://apads-app.netlify.app/](https://apads-app.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rishabh-malhotra-4536a418b
 [product-demo]: images/Capstone-Project-demonstation.gif
-[product-screenshoti]: assets/user-page.png
-[product-screenshotii]: assets/mentors.png
+[product-screenshoti]: public/images/video.png
+[product-screenshotii]: public/images/photo.png
 [product-screenshotiii]: assets/topics.png
 [product-screenshotiv]: assets/scheduler.png
 [product-screenshotv]: assets/confirm-booking.png
 [Capstone-Project-hld]: assets/Capstone-Project-hld.png
-
 
 ## Contributors ✨
 
