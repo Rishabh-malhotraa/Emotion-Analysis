@@ -11,7 +11,7 @@ import './App.css';
 createFaLibrary();
 loadModels();
 function App() {
-  const [mode, setMode] = useState(true); //true = photo mode; false = video mode
+  const [mode, setMode] = useState(false); //true = photo mode; false = video mode
 
   return (
     <div className="App">
