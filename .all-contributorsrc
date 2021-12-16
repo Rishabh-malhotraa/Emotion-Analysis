@@ -17,6 +17,17 @@
         "code",
         "video"
       ]
+    },
+    {
+      "login": "AbishMahajan",
+      "name": "AbishMahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89102936?v=4",
+      "profile": "https://github.com/AbishMahajan",
+      "contributions": [
+        "code",
+        "data",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
