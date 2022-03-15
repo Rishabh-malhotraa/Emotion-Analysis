@@ -35,11 +35,11 @@ function App() {
       </header>
       <Camera photoMode={mode} />
       <p>
-        MADE WITH{' '}
+        Made with{' '}
         <span role="img" aria-label="heart-emoji">
           ❤️
         </span>{' '}
-        BY CPG179.
+        by Rishabh.
       </p>
     </div>
   );
