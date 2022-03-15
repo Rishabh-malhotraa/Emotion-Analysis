@@ -18,7 +18,7 @@ function App() {
       <header>
         <div className="App__header">
           <h1>
-            <span>APADS</span>
+            <span>Emotion-Analysis</span>
           </h1>
           <div className="App__switcher">
             <FontAwesomeIcon icon="camera" color={mode ? '#007c6c' : '#cccccc'} />

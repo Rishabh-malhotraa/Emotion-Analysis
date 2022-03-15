@@ -12,12 +12,12 @@
 <br />
 
 <p align="center">
-  <a href="https://apads-app.netlify.app/">
-    <img src="./public/images/apads-logo.svg" alt="Logo" width="256" height="256">
+  <a href="https://emotion-analysis-app.netlify.app/">
+    <img src="./public/images/emotion-analysis-logo.svg" alt="Logo" width="256" height="256">
   </a>
 
   <strong>
-    <h3 align="center" >APADS</h3>
+    <h3 align="center" >emotion-analysis</h3>
   </strong>
   <p align="center">
     <strong>
@@ -27,7 +27,7 @@
     <a href="https://github.com/Rishabh-malhotraa/Capstone-Project"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://apads-app.netlify.app/">View Demo</a>
+    <a href="https://emotion-analysis-app.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/Rishabh-malhotraa/Capstone-Project/issues">Report Bug</a>
     ·
@@ -69,8 +69,7 @@
 
 ---
 
-### APADS App
-
+### emotion-analysis App
 
 | Real Time Emotion Analysis | Photo - Emotion Analysis |
 | :------------------------: | :----------------------: |
@@ -163,7 +162,7 @@ Rishabh malhotraa - [@rish_bishhh](https://twitter.com/rish_bishhh) - rishabhmal
 
 Discord : rishabh.malhotra#4193
 
-Project Link: [https://apads-app.netlify.app/](https://apads-app.netlify.app/)
+Project Link: [https://emotion-analysis-app.netlify.app/](https://emotion-analysis-app.netlify.app/)
 
 ---
 
@@ -200,7 +199,7 @@ Project Link: [https://apads-app.netlify.app/](https://apads-app.netlify.app/)
 [product-screenshotiii]: assets/topics.png
 [product-screenshotiv]: assets/scheduler.png
 [product-screenshotv]: assets/confirm-booking.png
-[Capstone-Project-hld]: assets/Capstone-Project-hld.png
+[capstone-project-hld]: assets/Capstone-Project-hld.png
 
 ## Contributors ✨
 
